@@ -1,4 +1,4 @@
-function getdIt(){
+function getdleaIt(){
   $('p').on('click', function(){
   alert("Hey!")
 });
