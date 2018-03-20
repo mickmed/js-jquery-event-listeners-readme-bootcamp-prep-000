@@ -19,7 +19,7 @@ function frameIt(){
 
 $(document).ready(function(){
 
-  getIt();
-  window.frameIt();
+  //getIt();
+  frameIt();
 
 });
